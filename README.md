@@ -1,2 +1,10 @@
-# jogo_paino_tiles
-Zerando jogo piano tiles.
+# Zerando jogo piano tiles com pyautogui!
+
+## Tecnologias usadas:
+
+- Python
+- Pyautogui
+- Win32 
+
+
+
